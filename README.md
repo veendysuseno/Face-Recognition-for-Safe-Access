@@ -5,7 +5,7 @@
 This project implements a locker safe security system using face recognition with a webcam. The system captures images of users, stores them, trains a face recognition model, and then allows access based on recognized faces. The system controls a servo motor for locking and unlocking the locker and displays status information on an I2C LCD screen.
 
 ## Schematic:
-<center> ![Schematic](images/skema.jpg) <center>
+![Schematic](images/skema.jpg)
 
 ## Features
 
