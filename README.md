@@ -34,7 +34,7 @@ This project implements a locker safe security system using face recognition wit
 1. Clone the repository and navigate to the project directory.
 
    ```bash
-   git clone https://github.com/your-repo-url
+   git clone https://github.com/veendysuseno/Face-Recognition-for-Safe-Access
    cd your-project-directory
    ```
 
