@@ -12,6 +12,10 @@ This project implements a locker safe security system using face recognition wit
 - LCD display showing lock status and recognized users.
 - Button to manually lock the system.
 
+## Circuit Schema:
+
+- ![Schema](img/skema.jpg)
+
 ## Prerequisites
 
 - Python 3.x
